@@ -1,2 +1,4 @@
-# ParseChat-Push
-Push notifications for ParseChat 
+# ParseChat- PushLM
+Push notifications for ParseChat via CloudCode. 
+
+Reduces security in app push security issues.
